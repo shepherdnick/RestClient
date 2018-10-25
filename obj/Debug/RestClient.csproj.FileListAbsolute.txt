@@ -1,0 +1,60 @@
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\bin\Debug\RestClient.exe
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\bin\Debug\RestClient.pdb
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.ClientForm.resources
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.exe
+C:\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.pdb
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.exe
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.pdb
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\bin\Debug\RestClient.exe
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\bin\Debug\RestClient.pdb
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\ResolveAssemblyReference.cache
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.ClientForm.resources
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+E:\WS2 OLD\Documents and Settings\nick.shepherd\My Documents\Downloads\restclient\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache
+\\ws5\shared\RestClient\obj\Debug\RestClient.exe
+\\ws5\shared\RestClient\obj\Debug\RestClient.pdb
+C:\Shared\RestClient\obj\Debug\RestClient.exe
+C:\Shared\RestClient\obj\Debug\RestClient.pdb
+C:\Shared\RestClient\bin\Debug\RestClient.exe
+C:\Shared\RestClient\bin\Debug\RestClient.pdb
+C:\Shared\RestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Shared\RestClient\obj\Debug\RestClient.ClientForm.resources
+C:\Shared\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+C:\Shared\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache
+\\ws5\shared\Programs\RestClient\obj\Debug\RestClient.exe
+\\ws5\shared\Programs\RestClient\obj\Debug\RestClient.pdb
+C:\Shared\Programs\RestClient\obj\Debug\RestClient.exe
+C:\Shared\Programs\RestClient\obj\Debug\RestClient.pdb
+C:\Shared\Programs\RestClient\bin\Debug\RestClient.exe
+C:\Shared\Programs\RestClient\obj\Debug\RestClient.ClientForm.resources
+C:\Shared\Programs\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+C:\Shared\Programs\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache
+C:\Shared\Programs\RestClient\bin\Debug\RestClient.pdb
+C:\Shared\Programs\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+\\ws5\shared\Programs\RestClient\bin\Debug\RestClient.exe
+\\ws5\shared\Programs\RestClient\bin\Debug\RestClient.pdb
+\\ws5\shared\Programs\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+\\ws5\shared\Programs\RestClient\obj\Debug\RestClient.ClientForm.resources
+\\ws5\shared\Programs\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+\\ws5\shared\Programs\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\obj\Debug\RestClient.exe
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\obj\Debug\RestClient.pdb
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\bin\Debug\RestClient.exe
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\bin\Debug\RestClient.pdb
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\obj\Debug\RestClient.ClientForm.resources
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+C:\Users\nick.shepherd\Dropbox\Code\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache
+D:\Users\sheph\Dropbox\Code\RestClient\bin\Debug\RestClient.exe.config
+D:\Users\sheph\Dropbox\Code\RestClient\bin\Debug\RestClient.exe
+D:\Users\sheph\Dropbox\Code\RestClient\bin\Debug\RestClient.pdb
+D:\Users\sheph\Dropbox\Code\RestClient\obj\Debug\RestClient.csprojAssemblyReference.cache
+D:\Users\sheph\Dropbox\Code\RestClient\obj\Debug\RestClient.ClientForm.resources
+D:\Users\sheph\Dropbox\Code\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+D:\Users\sheph\Dropbox\Code\RestClient\obj\Debug\RestClient.csproj.GenerateResource.cache
+D:\Users\sheph\Dropbox\Code\RestClient\obj\Debug\RestClient.csproj.CoreCompileInputs.cache
+D:\Users\sheph\Dropbox\Code\RestClient\obj\Debug\RestClient.exe
+D:\Users\sheph\Dropbox\Code\RestClient\obj\Debug\RestClient.pdb
